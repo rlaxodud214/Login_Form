@@ -1,0 +1,41 @@
+C:\Users\82108\source\repos\Login_window\Login_window\bin\Debug\Login_window.exe.config
+C:\Users\82108\source\repos\Login_window\Login_window\bin\Debug\Login_window.exe
+C:\Users\82108\source\repos\Login_window\Login_window\bin\Debug\Login_window.pdb
+C:\Users\82108\source\repos\Login_window\Login_window\obj\Debug\Login_window.csprojAssemblyReference.cache
+C:\Users\82108\source\repos\Login_window\Login_window\obj\Debug\Login_window.Properties.Resources.resources
+C:\Users\82108\source\repos\Login_window\Login_window\obj\Debug\Login_window.csproj.GenerateResource.cache
+C:\Users\82108\source\repos\Login_window\Login_window\obj\Debug\Login_window.csproj.CoreCompileInputs.cache
+C:\Users\82108\source\repos\Login_window\Login_window\obj\Debug\Login_window.exe
+C:\Users\82108\source\repos\Login_window\Login_window\obj\Debug\Login_window.pdb
+C:\Users\82108\source\repos\Login_window\Login_window\obj\Debug\Login_window.Find_PW.resources
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\bin\Debug\Login_window.exe.config
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\obj\Debug\Login_window.exe
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\obj\Debug\Login_window.pdb
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\obj\Debug\Login_window.csproj.GenerateResource.Cache
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\bin\Debug\Login_window.exe
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\bin\Debug\Login_window.pdb
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\obj\Debug\Login_window.Properties.Resources.resources
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\obj\Debug\Login_window.Login.resources
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\obj\Debug\Login_window.Register.resources
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\bin\Debug\Login_window.exe.config
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\bin\Debug\Login_window.exe
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\bin\Debug\Login_window.pdb
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\obj\Debug\Login_window.csprojAssemblyReference.cache
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\obj\Debug\Login_window.Login.resources
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\obj\Debug\Login_window.Register.resources
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\obj\Debug\Login_window.Properties.Resources.resources
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\obj\Debug\Login_window.csproj.GenerateResource.cache
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\obj\Debug\Login_window.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\obj\Debug\Login_window.exe
+C:\Users\82108\Documents\카카오톡 받은 파일\Login_window\Login_window\Login_window\obj\Debug\Login_window.pdb
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\bin\Debug\Login_window.exe.config
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\obj\Debug\Login_window.exe
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\obj\Debug\Login_window.pdb
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\bin\Debug\Login_window.exe
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\bin\Debug\Login_window.pdb
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\obj\Debug\Login_window.csprojResolveAssemblyReference.cache
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\obj\Debug\Login_window.Login.resources
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\obj\Debug\Login_window.Register.resources
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\obj\Debug\Login_window.Properties.Resources.resources
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\Login_window\obj\Debug\Login_window.csproj.GenerateResource.Cache
+C:\Users\GIGABYTE\Desktop\Login_window\Login_window\obj\Debug\Login_window.csprojResolveAssemblyReference.cache
