@@ -37,17 +37,28 @@ namespace Login_window
             user.PW = Password.Text;
 
             LoginCheck logincheck = new LoginCheck();
-            bool loginfcheck = logincheck.any(user);
+            Column login_info = logincheck.any(user);
 
-            if (loginfcheck)
+            if (login_info.PW == user.PW)
             {
                 this.DialogResult = DialogResult.OK;
-                MessageBox.Show("로그인 성공!!");
+                MessageBox.Show(login_info.NAME  + "님 반갑습니다.");
             }
             else
             {
-                this.DialogResult = DialogResult.Cancel;
-                MessageBox.Show("로그인 실패!!");
+                // 1. 아이디는 일치하는 경우
+                if (login_info.ID == user.ID)
+                {
+                    this.DialogResult = DialogResult.OK;
+                    MessageBox.Show("비밀번호가 다릅니다.");
+                }
+                
+                // 2. 일치하는 아이디를 못 찾은 경우
+                if (login_info.ID == null || login_info.PW == null)
+                {
+                    this.DialogResult = DialogResult.OK;
+                    MessageBox.Show("가입된 정보가 없습니다.");
+                }
             }
 
         }

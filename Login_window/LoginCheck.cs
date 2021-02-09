@@ -24,7 +24,7 @@ namespace Login_window
             "127.0.0.1", 1433, "User", "sa", "1234");
         // Ctrl + k, d : 자동 줄맞춤
 
-        private bool TryConnectToDatabase()
+        private Column TryConnectToDatabase()
         {
             // sql 연결
             SqlConnection connection = new SqlConnection(connectionStr);
@@ -77,21 +77,11 @@ namespace Login_window
                 connection.Close(); // 데이터 베이스 연결 종료
                 sw.WriteLine("[{0}] 데이터베이스 연결 종료 성공.", DateTime.Now.ToString("yyyy년MM월dd일 HH시mm분ss초"));
 
-                // 로그인 체크 코드
-                if (login_info.PW == column.PW)
-                {
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
-                
-
+                return login_info;
             }
         }
 
-        public bool any(Column user)
+        public Column any(Column user)
         {
             column = user;
             return TryConnectToDatabase();
